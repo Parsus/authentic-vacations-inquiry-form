@@ -2,7 +2,6 @@
 	$('.transportation-picker').selectpicker();
 
 	$('.av-form-inquiry').submit(function (event) {
-		event.preventDefault();
 
 		var $form = $(this).serialize();
 
