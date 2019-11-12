@@ -3,6 +3,10 @@
   border-color: #00a4b4;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .av-hero-bg-img {
   background-image: url('https://www.authenticvacations.com/wp-content/uploads/2019/09/banner-home-vintage-england_1920x600.jpg');
   min-height: 450px;
@@ -53,4 +57,9 @@ input.av-input-checkbox-img[type='checkbox']:checked + label {
 
 .av-for-label {
   width: 30px;
+}
+
+.transportation-picker .btn-light {
+  background-color: #fff !important;
+  border: 1px solid #ced4da;
 }
