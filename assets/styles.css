@@ -49,10 +49,9 @@ input.av-input-checkbox-img[type='checkbox']:checked + label {
 
 .av-underline-bar {
   color: #fff;
-  border-bottom: #fff solid 4px;
+  border-bottom: #fff solid 2px;
   display: block;
   width: 30px;
-  margin-top: 1rem;
 }
 
 .av-for-label {
