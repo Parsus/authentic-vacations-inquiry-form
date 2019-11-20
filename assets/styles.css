@@ -62,3 +62,17 @@ input.av-input-checkbox-img[type='checkbox']:checked + label {
   background-color: #fff !important;
   border: 1px solid #ced4da;
 }
+
+@media only screen and (min-width: 1200px) {
+  .av-destinations-images {
+    width: 80%;
+    margin: auto;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .av-destinations-images {
+    width: 90%;
+    margin: auto;
+  }
+}
